@@ -19,15 +19,15 @@
 
 🔥 Why Choose Sathanic v1?
 
-✅ AI-Powered Smart Replies 🤖 – Chat like a human with advanced AI
-✅ Custom Auto-Replies 💬 – Set up keyword-based automated responses
-✅ Image, Video & Sticker Support 📸 – Convert & send media effortlessly
-✅ Mini-Games & Fun Features 🎮 – Play games, generate memes & more
-✅ Admin Commands ⚡ – Ban, unban, mute, promote/demote users
-✅ Database Support 📂 – Save user interactions & logs
-✅ API Integrations 🌍 – Fetch news, weather, crypto rates, and more
-✅ Anti-Spam & Auto-Moderator 🔍 – Keep your groups clean & safe
-✅ 24/7 Uptime ⏳ – Host on Termux, VPS, or cloud services
+    ✅ AI-Powered Smart Replies 🤖 – Chat like a    human with advanced AI
+    ✅ Custom Auto-Replies 💬 – Set up keyword-based   automated responses
+    ✅ Image, Video & Sticker Support 📸 – Convert &     send media effortlessly
+    ✅ Mini-Games & Fun Features 🎮 – Play games,    generate memes & more
+    ✅ Admin Commands ⚡ – Ban, unban, mute,   promote/demote users
+    ✅ Database Support 📂 – Save user interactions   & logs
+    ✅ API Integrations 🌍 – Fetch news, weather,   crypto rates, and more
+    ✅ Anti-Spam & Auto-Moderator 🔍 – Keep your groups clean & safe
+    ✅ 24/7 Uptime ⏳ – Host on Termux, VPS, or cloud services
 
 
 ---
@@ -39,13 +39,13 @@
             pkg update && pkg upgrade -y
             pkg install git nodejs ffmpeg imagemagick -y
 
-###📌 Step 2: Clone the Repository & Install Required Modules
+📌 Step 2: Clone the Repository & Install Required Modules
 
             git clone https://github.com/sathanicc/Sathanic-v1.git
             cd Sathanic-v1
             npm install
 
-###📌 Step 3: Start the Bot & Scan the QR Code
+📌 Step 3: Start the Bot & Scan the QR Code
 
             node index.js
 
