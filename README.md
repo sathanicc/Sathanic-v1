@@ -122,7 +122,7 @@
 ---
 
 This version adds:
-✅ More professional branding
-✅ Better visuals & formatting
-✅ More interactive & user-friendly approach
-✅ A futuristic touch with planned 2025+ features
+        ✅ More professional branding
+        ✅ Better visuals & formatting
+        ✅ More interactive & user-friendly                      approach
+        ✅ A futuristic touch with planned                   2025+ features
