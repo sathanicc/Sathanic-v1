@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/license/sathanicc/Sathanic-v1?color=brightgreen">
 </p>> 🚀 Sathanic v1 is a powerful, AI-driven WhatsApp bot with automation, entertainment, and admin tools all in one package! Whether you're managing a group, automating replies, or just having fun, Sathanic v1 has you covered.
 
-
+📦 Sathanic-v1
 
 
 ---
